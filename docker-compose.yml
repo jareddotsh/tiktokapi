@@ -1,0 +1,7 @@
+
+version: '3'
+services:
+  tiktok_api-web:
+    image: tiktok_api-web
+    ports:
+      - "5000:5000"
